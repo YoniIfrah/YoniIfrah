@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoni Ifrah</h1>
-<h3 align="center">Software Engineer Student</h3>
+<h3 align="center">Software Engineer</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoni-ifrah/)
