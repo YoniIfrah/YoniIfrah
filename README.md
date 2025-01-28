@@ -193,7 +193,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+            src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg"
             alt="flask"
             width="40"
             height="40"
